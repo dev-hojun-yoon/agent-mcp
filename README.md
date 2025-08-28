@@ -34,6 +34,9 @@
 
 ### PoC 구현
 * LangGraph 와 MCP 를 이용해서 구현하였고, LangSmith 를 통해 시각화하였습니다.
+* 개발환경
+  * LLM 플랫폼 : Ollama
+  * LLM 모델 :  qwen3:8b
 
 
 ### AI Agent, MCP 보안
