@@ -22,6 +22,9 @@
   * Multi-Agent Pattern (오케스트레이션과 연관)
 
 * 오케스트레이션: 여러 특화 작업과 기능을 가진 AI Agent 가 최종 목표를 달성하기 위해서 서로 협력 / 조정 / 관리 프로세스
+  * Centralized Orchestration
+  * Decentralized Orchestration
+  * Hierarchical Orchestration
 
 
 ### MCP
